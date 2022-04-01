@@ -1,0 +1,15 @@
+{
+    "name": "yannickhugues/creer_son_framework_php",
+    "autoload": {
+        "psr-4": {
+            "Yannickhugues\\CreerSonFrameworkPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yann HUG",
+            "email": "yannhweb@gmail.com"
+        }
+    ],
+    "require": {}
+}

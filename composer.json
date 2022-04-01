@@ -11,5 +11,7 @@
             "email": "yannhweb@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "league/route": "^5.1"
+    }
 }
